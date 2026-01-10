@@ -13,5 +13,9 @@ public class Solution1 {
       num1=num1-num2;
 
       System.out.println("After swapping: " + num1 + " "+ num2);
+        System.out.println("After swapping: " + num1 + " "+ num2);
+          System.out.println("After swapping: " + num1 + " "+ num2);
+          System.out.println("After swapping: " + num1 + " "+ num2);
+          System.out.println("After swapping: " + num1 + " "+ num2);
     }
 }
